@@ -1,5 +1,5 @@
 # BIDY
-NN Virtual Assistance
+Virtual Assistance
 
 If you want to have BIDY to contribute:
 
