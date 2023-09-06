@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Project_VirtualAssistance_01.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <Project_VirtualAssistance_01.Properties.Settings>
+            <setting name="First_time" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="usr_name" serializeAs="String">
+                <value>Francesco</value>
+            </setting>
+            <setting name="ass_name" serializeAs="String">
+                <value>BIDY</value>
+            </setting>
+            <setting name="default_voice" serializeAs="String">
+                <value>Microsoft David Desktop</value>
+            </setting>
+            <setting name="opacity" serializeAs="String">
+                <value>0.8</value>
+            </setting>
+            <setting name="privacy" serializeAs="String">
+                <value>0.4</value>
+            </setting>
+            <setting name="codClima" serializeAs="String">
+                <value>SZXX0033</value>
+            </setting>
+            <setting name="on_off_micro" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </Project_VirtualAssistance_01.Properties.Settings>
+    </userSettings>
+</configuration>
